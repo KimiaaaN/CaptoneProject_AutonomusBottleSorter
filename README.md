@@ -15,4 +15,4 @@ version and GPU unit.
 For this project, The dataset we used is from Kaggle gathered by [Arkadiy Serezhkin](https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification?resource=). We used a total of 4820 RGB images from this dataset along with a txt file for each image. This dataset actually contains 4 classes, AluCan (Aluminum Can), Glass bottles, PET plastic bottles, and HDPEM plastic (which is like detergent bottles and big milk plastic gallons). Since we were focusing on a specific size of bottles which is a maximum of 750ml, we only eliminated HDPEM from the dataset. We also gather and add some data ourselves to this dataset.
 
 This dataset is split into two sections: 80% for training and 20% for testing and validation.
-For watching the damo of this project you can visit my [LinkedIn page here](https://www.kaggle.com/datasets/arkadiyhacks/drinking-waste-classification?resource=)
+For watching the damo of this project you can visit my [LinkedIn page here](https://www.linkedin.com/posts/kimia-nahravanian-0a60791b4_computervision-yolo-recycling-activity-6942226947070402560-iep9?utm_source=share&utm_medium=member_ios)
