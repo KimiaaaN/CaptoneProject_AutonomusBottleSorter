@@ -1,6 +1,6 @@
 # CaptoneProject_AutonomusBottleSorter
 
-For Autonomus Bottle sorter software which is a computer vision project, by training YOLOv4 model, we were able to acheive classification of the bottle types(glass, plastic, metal cans) with minimum accuracy of 91%.
+Autonomus Bottle sorter  is a computer vision project which  by training YOLOv4 model, we were able to achieve classification of the bottle types(glass, plastic, metal cans) with minimum accuracy of 91%.
  
 We implemented our code in python, using the Google Colab environment for accesing its high GPU.
 The most important libraries that we imported were CV2, numpy, matplotlib, Tensorflow as well as some essential functions from Google Colab to access the webcam properly.
